@@ -1,4 +1,5 @@
 # Lab 0
+
 Simple "Hello, world!" project
 
 1. Run ``` cmake -B build ``` to create build directory
